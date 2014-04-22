@@ -1,0 +1,35 @@
+body{
+background-color:#2B68DA;
+}
+
+
+#general{
+font-family:arial;
+color:#2C2E30;
+background-color:#E0EDF3;
+height:500px;
+width:500px;
+border-width:5px;
+border-style:solid;
+border-color:#5B8296;
+margin: 0 auto;
+border-radius:20px; 
+-moz-border-radius:20px; /* Firefox */ 
+-webkit-border-radius:20px; /* Safari y Chrome */ 
+}
+
+span{
+color:red;
+}
+
+input[type="text"]{
+width:400px;
+}
+
+input[type="submit"]{
+background-color:#E0EDF3;
+}
+
+h6{
+font-style:oblique;
+}
