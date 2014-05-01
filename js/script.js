@@ -20,6 +20,4 @@ if(sexo[0].checked == false && sexo[1].checked == false)
  }
  
  return true;
- 
-
-}
+ }
