@@ -10,6 +10,13 @@ if(nombre == ""){
  	alert("El nombre solo puede contener letras");
  	return false;
  }
+ 
+ //Paula
+ var telefono=document.getElementById("tel").value;
+                if( !(/^\d{4}-\d{4}$/.test(telefono)) ){
+				   alert('No escribio un numero de telefono');
+				   return false;
+				   }
 
 //Natalia
 var sexo = document.getElementsByName("Sexo");
