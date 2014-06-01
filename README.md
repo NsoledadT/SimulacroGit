@@ -10,3 +10,4 @@ agregarle nuevo datos según lo deseen recuerden que esto sólo es un simulacro </
 <p>Validar email: Que contenga @</p>
 <h2> Natalia </h2>
 <p>Validar radio buttons : Verificar selección</p>
+<h1>El simulacro  a sido Exitoso Felicitaciones a todos los integrantes del grupo</h1>
